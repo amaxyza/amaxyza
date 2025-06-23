@@ -1,4 +1,5 @@
-## Hi there 👋
+<!-- ## Hi there 👋
+-->
 <div align="center">
   
 ⚡ I’m currently working on [Shutterbirds](https://plasmamintz.itch.io/shutterbirds) and learning Go/Rust!
