@@ -2,7 +2,7 @@
 -->
 <div align="center">
   
-⚡ I’m currently working on [Shutterbirds](https://plasmamintz.itch.io/shutterbirds) and learning Go/Rust!
+⚡ I’m currently working on [Shutterbirds](https://plasmamintz.itch.io/shutterbirds) and learning Go!
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaxyza&show_icons=true&locale=en&layout=compact&theme=gotham" alt="amaxyza"/></p>
 
