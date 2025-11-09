@@ -6,7 +6,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaxyza&locale=en&layout=compact&theme=gotham" alt="amaxyza"/></p>
 
-</div>
+<img src="https://i.imgur.com/HhOcY5k.gif" alt="balls"></div>
 <!--
 **amaxyza/amaxyza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
