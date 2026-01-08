@@ -2,9 +2,9 @@
 -->
 <div align="center">
   
-⚡ I’m currently working on [Shutterbirds](https://plasmamintz.itch.io/shutterbirds), Shadro, and learning Go!
+  I’m currently working on [Lexiconnect](https://github.com/Lexiconnectt/Lexiconnect), [Shutterbirds](https://plasmamintz.itch.io/shutterbirds), and reading more software engineering literature! <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaxyza&locale=en&layout=compact&theme=gotham" alt="amaxyza"/></p>
+  If you have any suggestions for software-related books (particularly in the backend or graphics world), please email me your recommendations [here](mailto:email@anthonyestevez.dev)!
 
 <img src="https://i.imgur.com/HhOcY5k.gif" alt="balls"></div>
 <!--
