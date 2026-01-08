@@ -2,7 +2,7 @@
 -->
 <div align="center">
 
-  <img src="https://i.pinimg.com/736x/dc/ce/56/dcce5641aacf5601b2b1086de67b33db.jpg">Spring . . .</img>
+  <img src="https://i.pinimg.com/736x/dc/ce/56/dcce5641aacf5601b2b1086de67b33db.jpg" width="500">
   
   I’m currently working on [Lexiconnect](https://github.com/Lexiconnectt/Lexiconnect), [Shutterbirds](https://plasmamintz.itch.io/shutterbirds), and reading more software engineering literature! <br>
 
