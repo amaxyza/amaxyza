@@ -10,8 +10,8 @@
       <li><a href="https://github.com/amaxyza/shadro">Shadro</a> - Web app for sharing and creating GPU shaders, written in TypeScript and Go </li>
       <li><a href="https://github.com/amaxyza/raytracer">Ray Tracer</a> - Cpu-computed raytracer, written in C++ </li>
       <li><a href="https://github.com/amaxyza/DSTrainer">DSTrainer</a> - Front-end of a Dark Souls: Remastered trainer, written in C# </li>
-      <li><a href="https://github.com/amaxyza/filesystem">DSRT</a> - Memory editing DLL for Dark Souls: Remastered game modifications, written in C++ </li>
-      <li><a href="https://github.com/amaxyza/DSRT">Linux Wad File System</a> - Linux filesystem implementation using Doom WAD file format, written in C++</li>
+      <li><a href="https://github.com/amaxyza/DSRT">DSRT</a> - Memory editing DLL for Dark Souls: Remastered game modifications, written in C++ </li>
+      <li><a href="https://github.com/amaxyza/filesystem">Linux Wad File System</a> - Linux filesystem implementation using Doom WAD file format, written in C++</li>
       <li><a href="https://digital-worlds-institute.itch.io/shutter">Shutterbirds</a> - Bird photography Unity game with upgrades and customization, written in C#.</li>
       <li>. . . and much more to come!</li>
   </ul>
