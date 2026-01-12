@@ -8,12 +8,12 @@
     <h2>Projects</h2>
       <li><a href="https://github.com/Lexiconnectt/Lexiconnect">Lexiconnect</a> - modern web application designed specifically for linguistic researchers.</li>
       <li><a href="https://github.com/amaxyza/shadro">Shadro</a> - web app for sharing and creating GPU shaders </li>
-      <li><a href="https://github.com/amaxyza/raytracer">Ray Tracer</a> - cpu-compputed raytracer, written in C++ </li>
+      <li><a href="https://github.com/amaxyza/raytracer">Ray Tracer</a> - cpu-computed raytracer, written in C++ </li>
       <li><a href="https://github.com/amaxyza/DSTrainer">DSTrainer</a> - front-end of a Dark Souls: Remastered trainer, written in C# </li>
       <li><a href="https://github.com/amaxyza/filesystem">DSRT</a> - Memory editing DLL for Dark Souls: Remastered game modifications, written in C++ </li>
       <li><a href="https://github.com/amaxyza/DSRT">Linux Wad File System</a> - Linux filesystem implementation using Doom WAD file format, written in C++</li>
       <li><a href="https://digital-worlds-institute.itch.io/shutter">Shutterbirds</a> - Bird photography Unity game with upgrades and customization, written in C#.</li>
-      <li>. . . and more to come!</li>
+      <li>. . . and much more to come!</li>
   </ul>
     <br>
   <!--I’m currently working on [Lexiconnect](https://github.com/Lexiconnectt/Lexiconnect), [Shutterbirds](https://plasmamintz.itch.io/shutterbirds), and reading more software engineering literature! <br> -->
