@@ -23,4 +23,4 @@
   If you have any suggestions for software-related books (particularly in the backend or graphics world), please email me your recommendations <a href="mailto:email@anthonyestevez.dev">here</a>!
   </div>
   </div>
-<img src="https://i.imgur.com/HhOcY5k.gif" alt="balls"></div>
+
